@@ -3,22 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ejecutor;
+package mx.majori.bo;
 
-import mx.majori.bo.ClienteBO;
 import mx.majori.vo.ClienteVO;
+import java.util.List;
+import java.util.ArrayList;
 
 /**
  *
  * @author Ricardo Hiram
  */
-public class Ejecutar {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class ClienteBO {
     
-}
+   
 }
